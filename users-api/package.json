@@ -1,0 +1,19 @@
+{
+  "name": "users-api",
+  "version": "1.0.0",
+  "description": "A Basic Example of API with NodeJs",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "API",
+    "NodeJs"
+  ],
+  "author": "Emilio Garcia Borges",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security"
+  }
+}
